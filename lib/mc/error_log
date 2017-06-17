@@ -1,0 +1,5 @@
+[02-Jun-2017 12:40:38 America/Chicago] PHP Fatal error:  Class 'MailChimp' not found in /home4/i9e6m0a8/staging.contestbuzz.net/mailchimp/index.php on line 6
+[02-Jun-2017 12:41:03 America/Chicago] PHP Fatal error:  Class 'MailChimp' not found in /home4/i9e6m0a8/staging.contestbuzz.net/mailchimp/index.php on line 6
+[03-Jun-2017 11:16:31 America/Chicago] PHP Fatal error:  Call to undefined function http_response() in /home4/i9e6m0a8/staging.contestbuzz.net/mailchimp/index.php on line 8
+[03-Jun-2017 11:17:22 America/Chicago] PHP Fatal error:  Call to undefined function pcntl_fork() in /home4/i9e6m0a8/staging.contestbuzz.net/mailchimp/index.php on line 36
+[03-Jun-2017 11:17:25 America/Chicago] PHP Fatal error:  Call to undefined function pcntl_fork() in /home4/i9e6m0a8/staging.contestbuzz.net/mailchimp/index.php on line 36

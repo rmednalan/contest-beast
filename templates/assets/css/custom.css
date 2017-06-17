@@ -1,0 +1,307 @@
+#url_checking {height: 10px;margin-top: 8px; display:none;}
+
+.ui-widget{z-index:9999 !important;}
+.contest-beast-winners-box img{display:none;}
+.contestbuzz-table-responsive{
+box-shadow: 0 0 3px #000 !important;
+}
+.contestbuzz-table-responsive td a{
+color: #673AB7;
+}
+
+.contestbuzz-table-responsive tr:nth-child(2n+1){
+background: #ddd
+}
+.contestbuzz-table-responsive tr:nth-child(2n){
+background: rgba(189, 189, 189, 0.66)
+}
+	.contestbuzz-table-responsive thead,.contestbuzz-table-responsive thead tr:first-child {
+    background: #673AB7;
+
+}
+.contestbuzz-table-responsive thead th {
+font-size: 11px;
+color: white;
+
+}
+.well{
+background: #42275a; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #42275a , #734b6d); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #42275a , #734b6d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.ui-widget{z-index:9999 !important;}
+.contest-beast-winners-box img{display:none;}
+.spy_link_permalink {
+					background-color: #FFF;
+					padding: 5px 7px;
+					width: 265px;
+					display: inline-block;
+					border-radius: 4px;
+				}
+
+.wp-editor-container{border:1px solid #e5e5e5;}
+.navbar-default .navbar-toggle{
+	
+}
+
+.navbar-default {
+	display:block; 
+	
+	background-color:#673AB7 !important;
+	background: #6441A5; /* fallback for old browsers */
+	background: -webkit-linear-gradient(to left, #6441A5 , #2a0845); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to left, #6441A5 , #2a0845); 
+	/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	min-height:65px !important;
+	box-shadow: 0 2px 4px 0 rgba(0,0,0,0.1);
+    -webkit-transform: translateY(0);
+    transform: translateY(0); 
+}
+.navbar-brand{
+	padding:20px 0px 0px; margin-right:20px;
+}
+.navbar-default .navbar-nav>li>a{
+	 color: #ffffff;
+    padding-top: 24px;
+    padding-bottom: 28px;
+    text-transform: uppercase;
+    font-size: 15px;
+    -webkit-transition: 1s;
+    transition: 1s;
+	
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+	background-color:#2a0846;
+	color:#ffca08;
+}
+.navmenu{
+	    width: 20% !important;
+}
+#myNavmenu{
+	width:25%;
+    z-index:1000;
+    position:absolute;
+	top:35px;
+    background:#ddd;
+    color:#000;
+}
+.contest-head i{
+	color:#673AB7;
+}
+.contest-head {
+	padding-bottom:10px;
+	margin-bottom:25px;
+	border-bottom:1px solid #ddd;
+	width:92%;
+}
+.contest-head  h2{
+	display:inline-block;
+}
+.contest-footer {
+		padding-bottom:10px;
+	margin-bottom:25px;
+	width:92%;
+}
+.contest-footer  .contest-form-action{
+	display:inline-block;
+	float:right; margin-top: -40px;
+}
+.contest-head  .contest-form-action{
+	display:inline-block;
+	float:right; padding-top: 20px;
+}
+.contest-form {
+	margin-bottom:50px;
+}
+.contest-form .form-group{
+	border-bottom:dashed 1px #e0e0e0;
+	padding-bottom:25px;
+}
+.contest-form .form-group:hover{
+	border-bottom:dashed 1px #F89406;
+}
+
+
+
+	
+.navcontrol {
+  background: #f3f3f3;
+  width: 300px !important;
+      box-shadow: 0 0 5px rgba(57,70,78,.2);
+	  border-right:1px solid ##e7e7e7;
+	  margin:0px;
+	  padding:0px;
+}
+
+.navcontrol ul{
+	background: #f3f3f3;
+	  list-style:none;
+	  margin:0px;
+	  padding:0px;
+	 
+}
+
+.navcontrol a {
+  color: black;
+	text-decoration:none; 
+	display:block;
+	padding:10px 10px 10px 20px;
+}
+
+.navcontrol li{
+  padding:0px; margin:0px;
+    border-top:1px solid #f2f2f2;
+  border-bottom:1px solid #f2f2f2;
+}
+
+.navcontrol li a:hover,
+.navcontrol li a:focus {
+  background: #ddd;
+}
+
+.navcontrol .active {
+  font-weight: bold;
+  background: #f7000e;
+  border-top:1px solid #ccc;
+  border-bottom:1px solid #ccc;
+}
+
+.navcontrol .navcontrol {
+  display: none;
+}
+
+.navcontrol .active .navcontrol {
+  display: block;
+}
+
+.navcontrol .navcontrol a {
+  font-weight: normal;
+  font-size: .85em;
+}
+
+.navcontrol .navcontrol span {
+  margin: 0 5px 0 2px;
+}
+
+.navcontrol .navcontrol .active a,
+.navcontrol .navcontrol .active:hover a,
+.navcontrol .navcontrol .active:focus a {
+  font-weight: bold;
+  padding-left: 30px;
+  border-left: 5px solid black;
+}
+
+.navcontrol .navcontrol .active span,
+.navcontrol .navcontrol .active:hover span,
+.navcontrol .navcontrol .active:focus span {
+  display: none;
+}
+
+.affix-top {
+  position: relative;
+  padding-top:20px;
+}
+
+.affix {
+  top: 51px;
+   padding-top:20px;
+}
+
+.affix, 
+.affix-bottom {
+    
+}
+#fullheght-container{
+	
+}
+#body_background_color_preview, #contest_background_color_preview{
+	border-radius:3px;
+}
+#contest-container{
+	border-left:1px solid #ddd;
+	border-right:1px solid #ddd;
+	background:#fdfdfd;
+}
+#contestwhole{
+	background:#ceb3ca;
+}
+
+.multipleInput-container {
+     border: 1px solid #ccc;
+     padding-bottom:0;
+     cursor:text;
+     font-size:15px;
+     width:100%;
+	border-radius: 6px;
+	background-color: #fff;
+		
+
+}
+ 
+.multipleInput-container input {
+    font-size:15px;
+    clear:both;
+    border:0;
+    margin-bottom:1px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    -webkit-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+	outline:none;
+}
+ 
+.multipleInput-container ul {
+    list-style-type:none;
+	margin:0px;
+	padding:0px;
+}
+.multipleInput-container ul li{
+  color:#393939;
+}
+ 
+li.multipleInput-email {
+    float:left;
+    padding: 3px 1px 3px 8px;
+     color:#393939;
+	background: #ddd;
+	border-radius: 5px;
+	margin: 3px 2px 0px 3px;
+}
+ 
+.multipleInput-close i{
+	font-size:10px; color:#393939;
+}
+.multipleInput-close {
+    width:16px;
+    height:16px;
+    display:block;
+    float:right;
+    margin: -2px 0px 0px 8px;
+	color: #fff;
+	font-size: 16px;
+}
+#profilemenus{
+	position:absolute;
+	display:none;
+	background:#e7e7e7;
+	margin:0px;
+	list-style:none;
+	width:80px;
+	padding:5px 0px;
+}
+#profilemenus li{
+	display:block;
+}
+#profilemenus li a{
+	display:block;
+	padding:2px 8px; color:#666; font-size:14px;
+}

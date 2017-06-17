@@ -1,0 +1,47 @@
+<div style="z-index:1000">
+  <nav id="myNavmenu" class="navmenu navmenu-default navmenu-fixed-left offcanvas" role="navigation">
+  <a class="navmenu-brand" href="#">New Contest</a>
+  <ul class="nav navmenu-nav" id="ulformnav">
+    <li><a id="nav_contest_info" class="formnav" href="#contest_info">Contest Informationx</a></li>
+<!--     <li><a href="#">Contest Title</a></li>
+<!--     <li><a href="#">Contest URL</a></li>
+    <li><a href="#">Description </a></li>
+ <li><a href="#">Branding Logo</a></li>	-->
+ 
+    <li><a id="nav_schedule" class="formnav" href="#schedule">Schedule</a></li>
+	<!--    
+    <li><a href="#">Start Date </a></li>
+    <li><a href="#">End Date </a></li>
+    <li><a href="#">Countdown template </a></li>
+	 --> 
+    <li><a id="nav_mechanics" class="formnav" href="#mechanics">Mechanics </a></li>
+		<!-- 
+    <li><a href="#">Entries per Referral </a></li>
+    <li><a href="#">Number of Winners </a></li>
+	<li><a href="#">Giveaway Item Picture</a></li>
+	 -->
+    <li><a id="nav_disclaimer" class="formnav" href="#disclaimer">Disclaimer </a></li>
+    <li><a id="nav_term_service" class="formnav" href="#terms">Terms Of Service </a></li>
+    <li><a id="nav_Policy" class="formnav" href="#privacy_policy">Privacy Policy Box</a></li>
+    <li><a id="nav_custom_rules" class="formnav" href="#rules">Custom Rules?</a></li>
+    <li><a id="nav_mailing_list" class="formnav" href="#mailing_list">Add Participants to Mailing List?</a></li>
+    <li><a id="nav_tracking_script" class="formnav" href="#tracking_scripts">Custom Tracking Scripts?</a></li>
+    <li><a id="nav_custom_script" class="formnav" href="#custom_scripts">Add Custom Scripts </a></li>
+	
+    <li><a id="nav_styling" class="formnav" href="#styling">Styling</a></li><br>
+  </ul>
+</nav>
+<div class="navbar navbar-default navbar-fixed-top">
+	<div style="display:inline-block">
+		<ul>
+			<li>Dashboard</li>
+			<li>New Contest</li>
+		</ul>
+	</div>
+  <button type="button" class="navbar-toggle" id="openformnavi" data-toggle="offcanvas" data-target="#myNavmenu" data-canvas="body">
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+  </button>
+</div>
+</div>
